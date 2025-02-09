@@ -1,5 +1,6 @@
 # Smart-Contract-for-Land-Registry
-Land Registry Smart Contract: Overview: This project implements a basic Land Registry smart contract on the Ethereum blockchain. It allows for the registration of land parcels, transfer of land ownership, and retrieval of land details. This provides a transparent and immutable record of land ownership.
+A Smart Contract for Land Registry built with Solidity and Remix IDE for secure, transparent, and tamper-proof land records. It enables decentralized registration, ownership transfer, and verification with role-based access (Admin, Buyer, Seller). Deployed on the Ethereum blockchain, it ensures trustless and immutable transactions.
+This project implements a basic Land Registry smart contract on the Ethereum blockchain. It allows for the registration of land parcels, transfer of land ownership, and retrieval of land details. This provides a transparent and immutable record of land ownership.
 
 Features:
 
